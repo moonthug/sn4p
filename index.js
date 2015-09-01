@@ -1,0 +1,13 @@
+/**
+ * Created by moonman
+ *
+ * Based on https://github.com/mgp25/SC-API
+ */
+
+///////////////////////////////////////////////////////////////////////////////
+//
+//
+// EXPORTS
+//
+
+module.exports = require('./lib/sn4p');

@@ -1,0 +1,18 @@
+{
+  "name": "sn4p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.4.2",
+    "bigint": "^0.4.2",
+    "node-rsa": "^0.2.25",
+    "request": "^2.61.0",
+    "ursa": "^0.8.5"
+  }
+}
